@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @etudehome
+- 👋 Welcome to my page, I’m @etudehome
 - 👀 I’m interested in data science and machine learning. 
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
